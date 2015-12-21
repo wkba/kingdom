@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A7D89DF8-ADAB-40E6-BA01-84CFE27566CF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Oni_gokko</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F1282C7B40D89CB9C2597CAEFFD9872519DC2CFC</key>
+		<string>https://bitbucket.org/wkba/kingdoms.git</string>
+		<key>F9A1A36A923A26A35DE25C636D31EF6764D773F0</key>
+		<string>https://github.com/wkba/kingdom.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Oni_gokko.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F1282C7B40D89CB9C2597CAEFFD9872519DC2CFC</key>
+		<string>../../../onigokko</string>
+		<key>F9A1A36A923A26A35DE25C636D31EF6764D773F0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wkba/kingdom.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F9A1A36A923A26A35DE25C636D31EF6764D773F0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F9A1A36A923A26A35DE25C636D31EF6764D773F0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Kingdom</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F1282C7B40D89CB9C2597CAEFFD9872519DC2CFC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>onigokko</string>
+		</dict>
+	</array>
+</dict>
+</plist>
